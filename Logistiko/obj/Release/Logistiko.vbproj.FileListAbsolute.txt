@@ -1,0 +1,34 @@
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.FPA.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Login_Form.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Main_Menu.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Resources.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Vivlio.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Vivlio2.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Login_Form.af.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.vbproj.GenerateResource.Cache
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\bin\Release\Logistiko.exe
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\bin\Release\Logistiko.pdb
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\bin\Release\Logistiko.xml
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\bin\Release\af\Logistiko.resources.dll
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\af\Logistiko.resources.dll
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.exe
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.xml
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.pdb
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Epeksergasia_kinisis.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Kataxwrisi_kinisis.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\bin\Release\Logistiko.exe.manifest
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\bin\Release\Logistiko.application
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.exe.manifest
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.application
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.TrustInfo.xml
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Admin.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Eisagwgi_sinalasomenou.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Karteles_pelatwn.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Karteles_promitheftwn.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Promitheftes_pelates.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\obj\Release\Logistiko.Epeksergasia_sinalasomenou.resources
+\\vmware-host\shared folders\έγγραφα\visual studio 2013\Projects\Logistiko\Logistiko\bin\Release\Logistiko.exe.config
+C:\Users\gfass\Desktop\TELIKO\Logistiko\Logistiko\obj\Release\Logistiko.vbprojAssemblyReference.cache
+C:\Users\gfass\Desktop\TELIKO\Logistiko\Logistiko\obj\Release\Logistiko.exe
+C:\Users\gfass\Desktop\TELIKO\Logistiko\Logistiko\obj\Release\Logistiko.xml
+C:\Users\gfass\Desktop\TELIKO\Logistiko\Logistiko\obj\Release\Logistiko.pdb
